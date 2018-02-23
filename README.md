@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 # Programming Homeworks for Algorithms (CMSC 37000) #
 
 ### HW1 ###
@@ -14,3 +12,14 @@ Run your program: Make sure that file problem_set_0.dat is located in the same f
     
 > Problem set #0. Your algorithm solved all test instances correctly. Congratulations!
     Don't forget to submit your source code and file 'solution_0.dat' via Canvas. 
+
+### HW2 ###
+
+<img src="./hw2_alg.png"></img>
+
+Compile: g++ -std=c++11 problem_solver.cpp -o problem_solver (GNU C++:)
+
+Run your program: Make sure that file problem_set_1.dat is located in the same folder/directory as your executable. If your program solves all instances correctly, you will see the following message:
+
+> Problem set #1. Your algorithm solved all test instances correctly. Congratulations!
+    Don't forget to submit your source code and file 'solution_1.dat' via Canvas.
