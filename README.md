@@ -8,10 +8,7 @@ Design and implement a polynomial-time algorithm that given a sequence $w'1,...,
 
 Compile: g++ -std=c++11 problem_solver.cpp -o problem_solver (GNU C++:)
 
-Run your program: Make sure that file problem_set_0.dat is located in the same folder/directory as your executable. If your program solves all instances correctly, you will see the following message:
-    
-> Problem set #0. Your algorithm solved all test instances correctly. Congratulations!
-    Don't forget to submit your source code and file 'solution_0.dat' via Canvas. 
+Run your program: Make sure that file **problem_set_0.dat** is located in the same folder/directory as your executable. 
 
 ### HW2 ###
 
@@ -19,7 +16,12 @@ Run your program: Make sure that file problem_set_0.dat is located in the same f
 
 Compile: g++ -std=c++11 problem_solver.cpp -o problem_solver (GNU C++:)
 
-Run your program: Make sure that file problem_set_1.dat is located in the same folder/directory as your executable. If your program solves all instances correctly, you will see the following message:
+Run your program: Make sure that file **problem_set_1.dat** is located in the same folder/directory as your executable. 
 
-> Problem set #1. Your algorithm solved all test instances correctly. Congratulations!
-    Don't forget to submit your source code and file 'solution_1.dat' via Canvas.
+### HW2-extra ###
+
+The same question with HW2 but the problem set is large so optimazation has been used to generate correct answer without cause out of memory.
+
+Compile: g++ -std=c++11 problem_solver_large.cpp -o problem_solver_large (GNU C++:)
+
+Run your program: Make sure that file **solution_large_1.dat** is located in the same folder/directory as your executable.
