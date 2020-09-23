@@ -1,4 +1,4 @@
-# Programming Homeworks for Algorithms (CMSC 37000) #
+# Programming Homeworks for Algorithms #
 
 ### HW1 ###
 
